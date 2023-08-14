@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Benjamin Temidayo
+- 👋 Hi, I’m Benjamin Temidayo;
 - 👀 I’m interested in gaining software engineering skills;
 - 🌱 I’m currently learning C programming;
 - 💞️ I’m looking to collaborate on ...
